@@ -1,6 +1,8 @@
-# Git Made Simple
+# Everyday Git commands that actually work.
 
-Everyday Git commands that actually work.
+The only Guide you need for 95% of your daily GIT challenges.
+
+Don't forget to ⭐ this repo
 
 ---
 
